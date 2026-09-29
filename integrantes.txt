@@ -1,6 +1,6 @@
-Practica 2 Vue3
-Nombre(s) de integrante(s):
-- Completar con el nombre del estudiante
+Practica Final Vue
+Nombre: jhon Moises Ramos Hilaya
+
 
 Pasos para iniciar el proyecto
 1) npm install
