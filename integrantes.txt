@@ -1,0 +1,7 @@
+Practica 2 Vue3
+Nombre(s) de integrante(s):
+- Completar con el nombre del estudiante
+
+Pasos para iniciar el proyecto
+1) npm install
+2) npm run serve

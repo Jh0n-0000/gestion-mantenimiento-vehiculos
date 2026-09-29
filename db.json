@@ -1,0 +1,54 @@
+{
+  "vehiculos": [
+    {
+      "id": "1",
+      "placa": "4821-ABC",
+      "marca": "Toyota",
+      "modelo": "Hilux",
+      "anio": 2018,
+      "responsable": "Carlos Rojas"
+    },
+    {
+      "id": "2",
+      "placa": "3097-XYZ",
+      "marca": "Nissan",
+      "modelo": "Frontier",
+      "anio": 2020,
+      "responsable": "Luis Vargas"
+    },
+    {
+      "id": "3",
+      "placa": "2156-KLM",
+      "marca": "Suzuki",
+      "modelo": "Vitara",
+      "anio": 2017,
+      "responsable": "Ana Flores"
+    }
+  ],
+  "mantenimientos": [
+    {
+      "id": "1",
+      "vehiculoId": "1",
+      "fecha": "2026-09-10",
+      "tipo": "Cambio de aceite",
+      "detalle": "Cambio de aceite y filtro",
+      "costo": 280
+    },
+    {
+      "id": "2",
+      "vehiculoId": "1",
+      "fecha": "2026-08-22",
+      "tipo": "Frenos",
+      "detalle": "Revisión de pastillas delanteras",
+      "costo": 350
+    },
+    {
+      "id": "3",
+      "vehiculoId": "2",
+      "fecha": "2026-09-02",
+      "tipo": "Servicio general",
+      "detalle": "Revisión de motor y niveles",
+      "costo": 420
+    }
+  ]
+}
